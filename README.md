@@ -1,6 +1,7 @@
 # Data Inventory Template
 
 This repository contains a **blank data inventory template** designed to help digital preservation teams document and assess their organizational data sources.  
+
 The template is flexible and iterative, so you can start with core fields and expand as needed. It is also a work in progress, so fields and structure may be updated over time based on team needs and feedback.
 
 The goal is to increase trust, reduce risk, and make knowledge about data sources visible and actionable.
