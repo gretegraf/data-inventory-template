@@ -31,7 +31,7 @@ Without documentation, these sources may be forgotten, duplicated, or become ina
   - **Field Explanations** (detailed descriptions of each column)  
   - **Data_Inventory_Template** (blank template for use)  
 
-  Appendices can be included as additional tabs as needed to note future data needs or excluded sources.
+  Appendices can be included as additional tabs when needed to note future data needs or excluded sources.
 
 ---
 
